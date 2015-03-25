@@ -1,0 +1,4 @@
+*.DS_Store
+laminarVortexShedding/postProcessing/forces/*
+laminarVortexShedding/postProcessing/forceCoeffs/*
+Exploring*.pdf
